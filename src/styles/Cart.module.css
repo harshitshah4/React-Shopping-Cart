@@ -1,0 +1,17 @@
+.item{
+    
+    height: fit-content;    
+    background-color:white;
+    color:black;
+    font-weight: bold;
+
+}
+
+.cart{  
+    height: 500px;
+    overflow: auto;
+    margin: 5px;
+    border-style: solid;
+    border-color: black;
+    background-color: azure;
+}
